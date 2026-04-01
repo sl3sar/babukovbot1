@@ -1,4 +1,4 @@
-# Telegram Task Planner Bot
+# Telegram Task Planner Babukov Bot
 
 Простой планировщик задач для Telegram с календарем и временем выполнения.
 
